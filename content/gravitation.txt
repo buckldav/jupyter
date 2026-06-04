@@ -1,0 +1,212 @@
+7.2 Newton's Law of Universal Gravitation and Einstein's Theory of General Relativity
+Section Learning Objectives
+
+By the end of this section, you will be able to do the following:
+
+    Explain Newton’s law of universal gravitation and compare it to Einstein’s theory of general relativity
+    Perform calculations using Newton’s law of universal gravitation
+
+Section Key Terms
+Einstein’s theory of general relativity 	gravitational constant 	Newton’s universal law of gravitation
+Concepts Related to Newton’s Law of Universal Gravitation
+
+Sir Isaac Newton was the first scientist to precisely define the gravitational force, and to show that it could explain both falling bodies and astronomical motions. See Figure 7.7. But Newton was not the first to suspect that the same force caused both our weight and the motion of planets. His forerunner, Galileo Galilei, had contended that falling bodies and planetary motions had the same cause. Some of Newton’s contemporaries, such as Robert Hooke, Christopher Wren, and Edmund Halley, had also made some progress toward understanding gravitation. But Newton was the first to propose an exact mathematical form and to use that form to show that the motion of heavenly bodies should be conic sections—circles, ellipses, parabolas, and hyperbolas. This theoretical prediction was a major triumph. It had been known for some time that moons, planets, and comets follow such paths, but no one had been able to propose an explanation of the mechanism that caused them to follow these paths and not others.
+Figure 7.7 The popular legend that Newton suddenly discovered the law of universal gravitation when an apple fell from a tree and hit him on the head has an element of truth in it. A more probable account is that he was walking through an orchard and wondered why all the apples fell in the same direction with the same acceleration. Great importance is attached to it because Newton’s universal law of gravitation and his laws of motion answered very old questions about nature and gave tremendous support to the notion of underlying simplicity and unity in nature. Scientists still expect underlying simplicity to emerge from their ongoing inquiries into nature.
+
+The gravitational force is relatively simple. It is always attractive, and it depends only on the masses involved and the distance between them. Expressed in modern language, Newton’s universal law of gravitation states that every object in the universe attracts every other object with a force that is directed along a line joining them. The force is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. This attraction is illustrated by Figure 7.8.
+Figure 7.8 Gravitational attraction is along a line joining the centers of mass (CM) of the two bodies. The magnitude of the force on each body is the same, consistent with Newton’s third law (action-reaction).
+
+For two bodies having masses m and M with a distance r between their centers of mass, the equation for Newton’s universal law of gravitation is
+𝐅=𝐺⁡
+𝑚⁢𝑀
+𝑟2
+
+where F is the magnitude of the gravitational force and G is a proportionality factor called the gravitational constant. G is a universal constant, meaning that it is thought to be the same everywhere in the universe. It has been measured experimentally to be 𝐺=6.673×10−11⁢N⋅m2⁢/kg2 .
+
+If a person has a mass of 60.0 kg, what would be the force of gravitational attraction on him at Earth’s surface? G is given above, Earth’s mass M is 5.97 × 1024 kg, and the radius r of Earth is 6.38 × 106 m. Putting these values into Newton’s universal law of gravitation gives
+𝐅=𝐺⁡
+𝑚⁢𝑀
+𝑟2
+=(6.673×10−11⁢
+N⋅m2
+kg2
+)⁢(
+(60.0 kg)⁢(5.97×1024 kg)
+(6.38×106 m)2
+)=584 N
+
+We can check this result with the relationship: 𝐅=𝑚⁢𝐠=(60kg)⁢(9.8⁢m/s2)=588N
+
+You may remember that g, the acceleration due to gravity, is another important constant related to gravity. By substituting g for a in the equation for Newton’s second law of motion we get 𝐅=𝑚⁢𝐠 . Combining this with the equation for universal gravitation gives
+𝑚⁢𝐠=𝐺⁡
+𝑚⁢𝑀
+𝑟2
+
+Cancelling the mass m on both sides of the equation and filling in the values for the gravitational constant and mass and radius of the Earth, gives the value of g, which may look familiar.
+𝐠=𝐺⁡
+𝑀
+𝑟2
+=(6.67×10−11⁢
+N⋅m2
+kg2
+)⁢(
+5.98×1024⁢kg
+(6.38×106m)2
+)=9.80⁢m/s2
+
+This is a good point to recall the difference between mass and weight. Mass is the amount of matter in an object; weight is the force of attraction between the mass within two objects. Weight can change because g is different on every moon and planet. An object’s mass m does not change but its weight mg can.
+Virtual Physics
+Gravity and Orbits
+
+Move the sun, Earth, moon and space station in this simulation to see how it affects their gravitational forces and orbital paths. Visualize the sizes and distances between different heavenly bodies. Turn off gravity to see what would happen without it!
+Why doesn’t the Moon travel in a smooth circle around the Sun?
+
+    The Moon is not affected by the gravitational field of the Sun.
+    The Moon is not affected by the gravitational field of the Earth.
+    The Moon is affected by the gravitational fields of both the Earth and the Sun, which are always additive.
+    The moon is affected by the gravitational fields of both the Earth and the Sun, which are sometimes additive and sometimes opposite.
+
+Snap Lab
+Take-Home Experiment: Falling Objects
+
+In this activity you will study the effects of mass and air resistance on the acceleration of falling objects. Make predictions (hypotheses) about the outcome of this experiment. Write them down to compare later with results.
+
+    Four sheets of 8-1/2×11 -inch paper
+
+Procedure
+
+    Take four identical pieces of paper.
+        Crumple one up into a small ball.
+        Leave one uncrumpled.
+        Take the other two and crumple them up together, so that they make a ball of exactly twice the mass of the other crumpled ball.
+        Now compare which ball of paper lands first when dropped simultaneously from the same height.
+            Compare crumpled one-paper ball with crumpled two-paper ball.
+            Compare crumpled one-paper ball with uncrumpled paper.
+
+Why do some objects fall faster than others near the surface of the Earth if the force of gravity is proportional to the mass?
+
+    Some objects fall faster because of air resistance, which acts in the direction of the motion of the object and exerts more force on objects with less surface area.
+    Some objects fall faster because of air resistance, which acts in the direction opposite the motion of the object and exerts more force on objects with less surface area.
+    Some objects fall faster because of air resistance, which acts in the direction of motion of the object and exerts more force on objects with more surface area.
+    Some objects fall faster because of air resistance, which acts in the direction opposite the motion of the object and exerts more force on objects with more surface area.
+
+It is possible to derive Kepler’s third law from Newton’s law of universal gravitation. Applying Newton’s second law of motion to angular motion gives an expression for centripetal force, which can be equated to the expression for force in the universal gravitation equation. This expression can be manipulated to produce the equation for Kepler’s third law. We saw earlier that the expression r3/T2 is a constant for satellites orbiting the same massive object. The derivation of Kepler’s third law from Newton’s law of universal gravitation and Newton’s second law of motion yields that constant:
+𝑟3
+𝑇2
+=
+𝐺⁡𝑀
+4⁢𝜋2
+
+where M is the mass of the central body about which the satellites orbit (for example, the sun in our solar system). The usefulness of this equation will be seen later.
+
+The universal gravitational constant G is determined experimentally. This determination was first done accurately in 1798 by English scientist Henry Cavendish (1731–1810), more than 100 years after Newton published his universal law of gravitation. The measurement of G is very basic and important because it determines the strength of one of the four forces in nature. Cavendish’s experiment was very difficult because he measured the tiny gravitational attraction between two ordinary-sized masses (tens of kilograms at most) by using an apparatus like that in Figure 7.9. Remarkably, his value for G differs by less than 1% from the modern value.
+Figure 7.9 Cavendish used an apparatus like this to measure the gravitational attraction between two suspended spheres (m) and two spheres on a stand (M) by observing the amount of torsion (twisting) created in the fiber. The distance between the masses can be varied to check the dependence of the force on distance. Modern experiments of this type continue to explore gravity.
+Einstein’s Theory of General Relativity
+
+Einstein’s theory of general relativity explained some interesting properties of gravity not covered by Newton’s theory. Einstein based his theory on the postulate that acceleration and gravity have the same effect and cannot be distinguished from each other. He concluded that light must fall in both a gravitational field and in an accelerating reference frame. Figure 7.10 shows this effect (greatly exaggerated) in an accelerating elevator. In Figure 7.10 (a), the elevator accelerates upward in zero gravity. In Figure 7.10 (b), the room is not accelerating but is subject to gravity. The effect on light is the same: it “falls” downward in both situations. The person in the elevator cannot tell whether the elevator is accelerating in zero gravity or is stationary and subject to gravity. Thus, gravity affects the path of light, even though we think of gravity as acting between masses, while photons are massless.
+Figure 7.10 (a) A beam of light emerges from a flashlight in an upward-accelerating elevator. Since the elevator moves up during the time the light takes to reach the wall, the beam strikes lower than it would if the elevator were not accelerated. (b) Gravity must have the same effect on light, since it is not possible to tell whether the elevator is accelerating upward or is stationary and acted upon by gravity.
+
+Einstein’s theory of general relativity got its first verification in 1919 when starlight passing near the sun was observed during a solar eclipse. (See Figure 7.11.) During an eclipse, the sky is darkened and we can briefly see stars. Those on a line of sight nearest the sun should have a shift in their apparent positions. Not only was this shift observed, but it agreed with Einstein’s predictions well within experimental uncertainties. This discovery created a scientific and public sensation. Einstein was now a folk hero as well as a very great scientist. The bending of light by matter is equivalent to a bending of space itself, with light following the curve. This is another radical change in our concept of space and time. It is also another connection that any particle with mass or energy (e.g., massless photons) is affected by gravity.
+Figure 7.11 This schematic shows how light passing near a massive body like the sun is curved toward it. The light that reaches the Earth then seems to be coming from different locations than the known positions of the originating stars. Not only was this effect observed, but the amount of bending was precisely what Einstein predicted in his general theory of relativity.
+
+To summarize the two views of gravity, Newton envisioned gravity as a tug of war along the line connecting any two objects in the universe. In contrast, Einstein envisioned gravity as a bending of space-time by mass.
+Boundless Physics
+NASA gravity probe B
+
+NASA’s Gravity Probe B (GP-B) mission has confirmed two key predictions derived from Albert Einstein’s general theory of relativity. The probe, shown in Figure 7.12 was launched in 2004. It carried four ultra-precise gyroscopes designed to measure two effects hypothesized by Einstein’s theory:
+
+    The geodetic effect, which is the warping of space and time by the gravitational field of a massive body (in this case, Earth)
+    The frame-dragging effect, which is the amount by which a spinning object pulls space and time with it as it rotates
+
+Figure 7.12 Artist concept of Gravity Probe B spacecraft in orbit around the Earth. (credit: NASA/MSFC)
+
+Both effects were measured with unprecedented precision. This was done by pointing the gyroscopes at a single star while orbiting Earth in a polar orbit. As predicted by relativity theory, the gyroscopes experienced very small, but measureable, changes in the direction of their spin caused by the pull of Earth’s gravity.
+
+The principle investigator suggested imagining Earth spinning in honey. As Earth rotates it drags space and time with it as it would a surrounding sea of honey.
+According to the general theory of relativity, a gravitational field bends light. What does this have to do with time and space?
+
+    Gravity has no effect on the space-time continuum, and gravity only affects the motion of light.
+    The space-time continuum is distorted by gravity, and gravity has no effect on the motion of light.
+    Gravity has no effect on either the space-time continuum or on the motion of light.
+    The space-time continuum is distorted by gravity, and gravity affects the motion of light.
+
+Calculations Based on Newton’s Law of Universal Gravitation
+Tips For Success
+
+When performing calculations using the equations in this chapter, use units of kilograms for mass, meters for distances, newtons for force, and seconds for time.
+
+The mass of an object is constant, but its weight varies with the strength of the gravitational field. This means the value of g varies from place to place in the universe. The relationship between force, mass, and acceleration from the second law of motion can be written in terms of g.
+𝐅=𝑚⁢𝐚=𝑚⁢𝐠
+
+In this case, the force is the weight of the object, which is caused by the gravitational attraction of the planet or moon on which the object is located. We can use this expression to compare weights of an object on different moons and planets.
+Watch Physics
+Mass and Weight Clarification
+
+This video shows the mathematical basis of the relationship between mass and weight. The distinction between mass and weight are clearly explained. The mathematical relationship between mass and weight are shown mathematically in terms of the equation for Newton’s law of universal gravitation and in terms of his second law of motion.
+
+Mass and weight clarification | Centripetal force and gravitation | Physics | Khan Academy
+Grasp Check
+
+Would you have the same mass on the moon as you do on Earth? Would you have the same weight?
+
+    You would weigh more on the moon than on Earth because gravity on the moon is stronger than gravity on Earth.
+    You would weigh less on the moon than on Earth because gravity on the moon is weaker than gravity on Earth.
+    You would weigh less on the moon than on Earth because gravity on the moon is stronger than gravity on Earth.
+    You would weigh more on the moon than on Earth because gravity on the moon is weaker than gravity on Earth.
+
+Two equations involving the gravitational constant, G, are often useful. The first is Newton’s equation, 𝐅=𝐺⁡
+𝑚⁢𝑀
+𝑟2
+. Several of the values in this equation are either constants or easily obtainable. F is often the weight of an object on the surface of a large object with mass M, which is usually known. The mass of the smaller object, m, is often known, and G is a universal constant with the same value anywhere in the universe. This equation can be used to solve problems involving an object on or orbiting Earth or other massive celestial object. Sometimes it is helpful to equate the right-hand side of the equation to mg and cancel the m on both sides.
+
+The equation
+𝑟3
+𝑇2
+=
+𝐺⁡𝑀
+4⁢𝜋2
+is also useful for problems involving objects in orbit. Note that there is no need to know the mass of the object. Often, we know the radius r or the period T and want to find the other. If these are both known, we can use the equation to calculate the mass of a planet or star.
+Watch Physics
+Mass and Weight Clarification
+
+This video demonstrates calculations involving Newton’s universal law of gravitation.
+
+Introduction to Newton's law of gravitation | Physics | Khan Academy
+What is the difference between g and G?
+
+    g and G are both unchanging constants but have different units.
+    G is a universal constant that relates force with a pair of masses at a distance, while g relates force with mass and varies with location.
+    g describes acceleration while G describes gravitational force.
+    g describes gravitational force while G describes acceleration.
+
+Worked Example
+Change in g
+
+The value of g on the planet Mars is 3.71 m/s2. If you have a mass of 60.0 kg on Earth, what would be your mass on Mars? What would be your weight on Mars?
+Strategy
+
+Weight equals acceleration due to gravity times mass: 𝐖=𝑚⁢𝐠 . An object’s mass is constant. Call acceleration due to gravity on Mars gM and weight on Mars WM.
+
+Discussion
+
+The value of g on any planet depends on the mass of the planet and the distance from its center. If the material below the surface varies from point to point, the value of g will also vary slightly.
+Worked Example
+Earth’s g at the Moon
+
+Find the acceleration due to Earth’s gravity at the distance of the moon.
+𝐺⁡ = 6.67 × 10–11⁢ N · m2⁢ /kg2Earth-moon distance = 3.84 × ⁢108 mEarth’s mass = 5.98 × ⁢1024 kg
+7.5
+
+Express the force of gravity in terms of g.
+F = W = 𝑚a = 𝑚g
+7.6
+
+Combine with the equation for universal gravitation.
+𝑚⁢𝐠=𝑚⁢𝐺⁡
+𝑀
+𝑟2
+7.7
+
+Discussion
+
+The value of g for the moon is 1.62 m/s2. Comparing this value to the answer, we see that Earth’s gravitational influence on an object on the moon’s surface would be insignificant.
